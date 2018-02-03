@@ -3,6 +3,7 @@ This repository runs multiple instances of node servers on different ports.
 
 ### nginx.conf
 
+```
 events {
     worker_connections  1024;
 }
@@ -28,3 +29,4 @@ http {
         }
     }
 }
+```
