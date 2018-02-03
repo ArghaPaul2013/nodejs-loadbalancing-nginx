@@ -30,3 +30,5 @@ http {
     }
 }
 ```
+
+#### Also, add the domain dev.new-test.com to your host file.
