@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-loadbalancing-nginx",
+  "version": "1.0.0",
+  "description": "This repository runs multiple instances of node servers on different ports.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArghaPaul2013/nodejs-loadbalancing-nginx.git"
+  },
+  "author": "Argha Paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArghaPaul2013/nodejs-loadbalancing-nginx/issues"
+  },
+  "homepage": "https://github.com/ArghaPaul2013/nodejs-loadbalancing-nginx#readme",
+  "devDependencies": {
+    "express": "^4.16.2"
+  }
+}
