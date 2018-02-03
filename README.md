@@ -1,5 +1,6 @@
 # nodejs-loadbalancing-nginx
 This repository runs multiple instances of node servers on different ports.
+Nginx loadbalances the node servers to distribute incoming traffic.
 
 ### nginx.conf
 
